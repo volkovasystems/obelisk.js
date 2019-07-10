@@ -5,7 +5,7 @@
   "main": "./nodeshiv/obelisk-nodeshiv.js",
   "browser": "./build/obelisk.js",
   "dependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.0.3",
     "browserify-shim": "^3.4.1"
   },
   "devDependencies": {
